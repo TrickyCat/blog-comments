@@ -1,5 +1,6 @@
 {
   "origins": [
-    "https://blog.tricky.cat"
+    "https://blog.tricky.cat",
+    "http://localhost:4000"
   ]
 }
